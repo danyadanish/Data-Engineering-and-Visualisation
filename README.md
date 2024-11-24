@@ -103,3 +103,7 @@ This project is ideal for:
 1. Clone the repository to your local machine:
    ```bash
    git clone <repository-url>
+
+2. Install the Dependencies:
+   ```bash
+   pip install numpy pandas seaborn geopy folium
