@@ -79,7 +79,7 @@ This project is ideal for:
 ## Tools and Technologies
 
 - **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Geopy, Folium
 - **Environment:** Jupyter Notebook or Google Colab
 
 ---
