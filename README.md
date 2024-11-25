@@ -84,8 +84,26 @@ This project is ideal for:
 
 ---
 
+## Created by:
+- Maryam Kashif
+- Danya Danish
+- Farida Ismail
+- Mariam El Gamal
+
+---
+
+## Dataset:
+
+[Zomato Bangalore Restaurants Dataset on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+
+---
+
 ## How to Use
 
 1. Clone the repository to your local machine:
    ```bash
    git clone <repository-url>
+
+2. Install the Dependencies:
+   ```bash
+   pip install numpy pandas seaborn geopy folium
