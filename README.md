@@ -2,53 +2,34 @@
 
 ## Overview
 
-This project focuses on applying data engineering and visualization techniques to uncover meaningful insights from a dataset. The aim is to simulate a complete data analysis process, including data acquisition, cleaning, exploratory and statistical analysis, visualization, and results communication.
-
-The project is designed to enhance skills in handling real-world data challenges and creating compelling visual narratives to address specific research questions.
+This project focuses on applying data engineering and visualization techniques to uncover meaningful insights from the Zomato dataset. The aim is to simulate a complete data analysis process, including data acquisition, cleaning, exploratory and statistical analysis, visualization, and results communication. We wanted to answer in-depth research questions about the Food Industry in Bangalore. 
 
 ---
 
 ## Key Objectives
 
 1. **Data Exploration:**
-   - Examine the dataset to identify missing values, data types, and anomalies.
-   - Document patterns or inconsistencies for further analysis.
+   - Examined the dataset to identify missing values, data types, and anomalies.
+   - Documented patterns or inconsistencies for further analysis.
 
 2. **Formulating Research Questions:**
-   - Develop specific, impactful questions that guide the analysis and visualization process.
+   - Developed specific, impactful questions that guided the analysis and visualization process.
 
 3. **Data Cleaning:**
-   - Handle missing data using appropriate techniques.
-   - Identify and address outliers to maintain data quality.
+   - Handled missing data using appropriate techniques.
+   - Identified and addressed outliers to maintain data quality.
 
 4. **Data Visualization:**
-   - Create diverse visualizations (e.g., histograms, scatter plots, box plots) to highlight key patterns and trends.
-   - Ensure that visualizations provide meaningful and non-trivial insights.
+   - Created diverse visualizations (e.g., histograms, scatter plots, box plots) to highlight key patterns and trends.
 
 5. **Insight Communication:**
-   - Present findings clearly and effectively, combining data-driven insights with visual storytelling.
+   - Presented our findings clearly and effectively, combining data-driven insights with visual storytelling.
 
 ---
 
-## Features of the Project
+## What You Can Expect to Find:
 
-- **Comprehensive Data Analysis:**
-  - From data cleaning to creating polished visualizations, this project covers the entire lifecycle of data engineering.
-  
-- **Insightful Visualizations:**
-  - Focused on using diverse visual techniques to present non-trivial insights.
-
-- **Collaboration and Contribution:**
-  - Encourages teamwork, where members bring unique perspectives to the analysis process.
-
-- **Real-World Data Focus:**
-  - Tackles the challenges of handling complex datasets and deriving actionable insights.
-
----
-
-## Deliverables
-
-The primary deliverable is a Jupyter/Colab Notebook, which includes:
+Our Primary Deliverable was a Jupyter/Colab Notebook, which includes:
 - **Dataset Overview:**
   - A summary of the dataset, its structure, and relevance to the analysis.
   
@@ -107,3 +88,4 @@ This project is ideal for:
 2. Install the Dependencies:
    ```bash
    pip install numpy pandas seaborn geopy folium
+3. Run the Project
